@@ -1,0 +1,3 @@
+>scaffold1_orf00001
+>scaffold1_orf00004
+>scaffold1_orf00005
